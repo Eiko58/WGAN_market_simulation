@@ -1,7 +1,5 @@
 # WGAN_market_simulation
-##Background
-*[Data]
-*[Models]
+
 
 ##Data
 This project uses limited order book data (AAPL level-1) downloaded from https://lobsterdata.com/info/DataSamples.php.
